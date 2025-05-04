@@ -1,0 +1,5 @@
+Given a sorted array of integers. Write a program to find the index of the first numbers that is greater than or equal to a specific numbers using binary search.
+Input: 2, 3, 5, 7, 8, 10, 11
+Number: 6
+
+Output: 7
